@@ -50,12 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=AungPyaePhyo-Dev&show_icons=true&theme=tokyonight" />
-  <img alt="top languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungPyaePhyo-Dev&layout=compact&theme=tokyonight" />
+  <img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=AungPyaePhyo-Dev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img alt="top languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungPyaePhyo-Dev&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img alt="streak" src="https://streak-stats.demolab.com?user=AungPyaePhyo-Dev&theme=tokyonight" />
+  <img alt="streak" src="https://streak-stats.demolab.com?user=AungPyaePhyo-Dev&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
